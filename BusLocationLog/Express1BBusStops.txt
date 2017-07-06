@@ -1,0 +1,11 @@
+
+var Express1BBusStops = [
+{"stopnum":1,"lat":46.7125168,"long":-117.1772,"stopname":"Wall Mart on Harvest Drive ","distance":302,"time":"1.05"},
+{"stopnum":2,"lat":46.71426,"long":-117.175247,"stopname":"Bishop & Harvest ","distance":1559,"time":"2.25"},
+{"stopnum":3,"lat":46.7201843,"long":-117.164024,"stopname":"Bishop & Bleasner ","distance":1703,"time":"3.97"},
+{"stopnum":4,"lat":46.7315063,"long":-117.158859,"stopname":"Stadium at Vogel Biosciences Please Exit Thru Rear Doors","distance":2451,"time":"5.42"},
+{"stopnum":5,"lat":46.7452,"long":-117.18087,"stopname":"Hall & Larry, Aquatic Center","distance":853,"time":"2.30"},
+{"stopnum":6,"lat":46.7398262,"long":-117.173119,"stopname":"Stadium at Dissmores Please Exit Thru Rear Doors","distance":2399,"time":"4.27"},
+{"stopnum":7,"lat":46.72109,"long":-117.184723,"stopname":"Grand & Crestview","distance":1431,"time":"2.53"},
+{"stopnum":8,"lat":46.7125168,"long":-117.1772,"stopname":"Wall Mart on Harvest Drive ","distance":0,"time":"0.00"},
+];

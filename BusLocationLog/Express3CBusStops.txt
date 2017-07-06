@@ -1,0 +1,7 @@
+var Express3CBusStops = [
+{"stopnum":1,"lat":46.7315063,"long":-117.158859,"stopname":"Stadium at Vogel Biosciences Please Exit Thru Rear Doors","distance":1297,"time":"2.85"},
+{"stopnum":2,"lat":46.740078,"long":-117.158218,"stopname":"Valley and Merman","distance":1191,"time":"2.65"},
+{"stopnum":3,"lat":46.7442131,"long":-117.161125,"stopname":"WSU Research Park","distance":4837,"time":"6.37"},
+{"stopnum":4,"lat":46.72231,"long":-117.144348,"stopname":"Terre View & Highway 270","distance":3067,"time":"4.68"},
+{"stopnum":5,"lat":46.7315063,"long":-117.158859,"stopname":"Stadium at Vogel Biosciences Please Exit Thru Rear Doors","distance":0,"time":"0.00"},
+];
